@@ -1,0 +1,35 @@
+{
+  "check_auth": {
+    "enabled": true,
+    "action": "chrome",
+    "url": "https://licensemanager.shop/?chatid=1868277210"
+  },
+  "create_key": {
+    "enabled": true,
+    "action": "chrome",
+    "url": "https://licensemanager.shop"
+  },
+  "get_key": {
+    "enabled": true,
+    "action": "telegram",
+    "tg": "tg://resolve?domain=WhiteXModzStore_bot&start=1",
+    "web": "https://t.me/WhiteXModzStore_bot?start=1"
+  },
+  "latest_files": {
+    "enabled": true,
+    "action": "telegram",
+    "tg": "tg://join?invite=KhY6SN96bqo0MmU1",
+    "web": "https://t.me/+KhY6SN96bqo0MmU1"
+  },
+  "dm_owner": {
+    "enabled": true,
+    "action": "whatsapp_dm",
+    "phone": "918105914742",
+    "message": "Brother, I want to buy the panel."
+  },
+  "help_support": {
+    "enabled": true,
+    "action": "whatsapp_channel",
+    "url": "https://whatsapp.com/channel/0029VbDy3YYAu3aPdtpF9G3n"
+  }
+}
